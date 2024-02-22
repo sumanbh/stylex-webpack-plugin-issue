@@ -1,0 +1,17 @@
+*.log*
+.build
+.docusaurus
+.stylex
+build
+coverage
+dist
+lib
+node_modules
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
